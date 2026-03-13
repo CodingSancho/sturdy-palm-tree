@@ -27,3 +27,15 @@ ignore.conf
 *.slnx
 *.csproj
 *.user
+# Ignore image assets (PNG, JPG, etc.)
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.psd
+*.gif
+# Ignore all assets except scripts and prefabs
+Assets/* 
+!Assets/*.cs
+!Assets/**/*.prefab
+!Assets/**/*.unity
