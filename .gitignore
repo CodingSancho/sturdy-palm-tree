@@ -18,3 +18,7 @@ MemoryCaptures/
 *.mdb
 *.opendb
 *.VC.db
+.vscode/*
+!.vscode/extensions.json
+*.sln
+*.csproj
