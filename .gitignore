@@ -20,5 +20,10 @@ MemoryCaptures/
 *.VC.db
 .vscode/*
 !.vscode/extensions.json
+.vscode/
+.plastic/
+ignore.conf
 *.sln
+*.slnx
 *.csproj
+*.user
