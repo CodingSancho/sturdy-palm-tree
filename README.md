@@ -2,13 +2,13 @@
 
 Unity version: 6000.3.11f1
 
-Prototype
+## Prototype
 
 A single button that increments the score when clicked.
 
 Score displayed using a number with dynamic formatting (e.g., 1k, 1M).
 
-Future Plans
+## Future Plans
 
 Auto-generators: passive income that increases your score automatically.
 
